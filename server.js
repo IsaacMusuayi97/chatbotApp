@@ -37,5 +37,5 @@ app.post("/chat", async (req, res) => {
 
 // Start server
 app.listen(3001, () => {
-  console.log("✅ Server running on http://localhost:3001");
+  console.log("✅ Server running on https://chatbotapp-1-j63y.onrender.com");
 });
